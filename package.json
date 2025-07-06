@@ -1,0 +1,19 @@
+{
+  "name": "com.unitypackage.savesystem",
+  "displayName": "Game Save System",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "A generic game save system for Unity with modular architecture and dependency resolution.",
+  "keywords": [
+    "save",
+    "serialization",
+    "persistence"
+  ],
+  "category": "Unity",
+  "dependencies": {},
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com",
+    "url": "https://www.example.com"
+  }
+}
