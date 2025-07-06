@@ -1,5 +1,5 @@
 {
-  "name": "com.unitypackage.savesystem",
+  "name": "com.gamebros.interactive.savesystem",
   "displayName": "Game Save System",
   "version": "1.0.0",
   "unity": "2020.3",
@@ -12,8 +12,8 @@
   "category": "Unity",
   "dependencies": {},
   "author": {
-    "name": "Your Name",
-    "email": "your.email@example.com",
-    "url": "https://www.example.com"
+    "name": "Dhruv Bhasin",
+    "email": "bhasindhruv11797@gmail.com",
+    "url": "https://github.com/bhasindhruv117/SaveSystem.git"
   }
 }
